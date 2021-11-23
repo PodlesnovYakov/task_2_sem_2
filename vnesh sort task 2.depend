@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621890412 source:c:\users\30041203\desktop\c++ projects\vnesh sort task 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
